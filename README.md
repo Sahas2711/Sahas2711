@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sahas2711&label=Profile%20views&color=0e75b6&style=flat" alt="sahas2711" /> </p>
 
-- 🌱 I’m currently learning **DSA in Java,CSS**
+- 🌱 I’m currently learning **DSA in Java**
 
 - 👯 I’m looking to collaborate on **Web devolapmentl**
 
-- 💬 Ask me about **C,JAVA,PYTHON**
+- 💬 Ask me about **JAVA,PYTHON**
 
 - 📫 How to reach me **sahasnagar1234@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FD0zTocUWGtB4IL0e5dR8lqqC_hL9D2e/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](##https://drive.google.com/file/d/1FD0zTocUWGtB4IL0e5dR8lqqC_hL9D2e/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
